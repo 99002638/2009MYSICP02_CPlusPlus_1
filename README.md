@@ -5,3 +5,5 @@
 ![C/C++ CI](https://github.com/99002638/2009MYSICP02_CPlusPlus_1/workflows/C/C++%20CI/badge.svg?branch=main)
 
 ![cppcheck-action](https://github.com/99002638/2009MYSICP02_CPlusPlus_1/workflows/cppcheck-action/badge.svg?branch=main)
+
+![Unit testing](https://github.com/99002638/2009MYSICP02_CPlusPlus_1/workflows/Unit%20testing/badge.svg?branch=main)
